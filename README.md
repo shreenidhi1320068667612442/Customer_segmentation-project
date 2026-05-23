@@ -1,6 +1,7 @@
       Customer Segmentation using K-Means Clustering and Power BI
 
-    Features:
+Features:
+
 - Customer segmentation using K-Means Clustering
 - Data analysis using Python
 - Visualization of customer groups
@@ -9,7 +10,8 @@
 - Income vs Spending Score analysis
 - Business insights generation
 
--     Technologies Used:
+Technologies Used:
+
 - Python
 - Pandas
 - Matplotlib
